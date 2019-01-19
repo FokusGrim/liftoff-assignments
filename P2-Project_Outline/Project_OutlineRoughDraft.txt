@@ -1,0 +1,14 @@
+For my project, I will be creating a login database that stores photographs of old st.louis. I think this kind of content would interest a majority of people. I got the idea while I was exploring St.Louis with my camera and thought I don't want this content to disappear. If I could find a
+way to share it so it never dies my job to preserve the buildings would be a success. I'm not sure how exactly I want it to layout but I think the idea could be a good thing for the city of St.Louis. Old St.Louis is disappearing, I want this app to show people what they are missing out on.   
+
+Features:
+
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Search: Users will be able to search for blog posts containing given text.
+List: Names of all the buildings users can access.
+
+Technologies:
+
+JavaScript
+React
+MySQL
