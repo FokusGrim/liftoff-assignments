@@ -6,6 +6,10 @@ Features:
 User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
 Search: Users will be able to search for blog posts containing given text.
 List: Names of all the buildings users can access.
+Maybe use an API from the city database.
+
+City maps
+Showing the major details of surrounding areas
 
 Technologies:
 
